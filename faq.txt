@@ -1,0 +1,51 @@
+how to design faq page?
+
+same as <=> https://www.myntra.com/faqs
+
+pages>ad page>faq>publish
+edit>edit with elementor>
+grid>3 column
+
+1st column >button>Shipping, Order Tracking & Delivery
+2nd column >button>Returns and Exchange
+3rd column >button>Payments
+
+pages>add page>Shipping-Order-Tracking-Delivery>publish
+pages>add page>Returns-Exchange>publish
+pages>add page>Payments>publish
+
+apearance>menus
+Menu Name________
+check ->Automatically add new top-level pages to this menu
+check ->Primary Menu
+create menu
+
+select all pages>add to menus
+save menus
+
+
+plugin>add plugin>Accordion FAQ – Compatible With All Page Builder (Elementor, Gutenberg)
+>install >activate
+
+Accrodian faq>add new>
+title>Shipping-Order-Tracking-Delivery
+
+Accordian title __________
+Accordian description __________
+
+atleast 2-3 questions
+
+publish
+copy shortcode
+paste in >Shipping-Order-Tracking-Delivery page
+
+faq>edit with elementor>Shipping-Order-Tracking-Delivery page
+link>localhost/ansh/shipping-order-tracking-delivery/publish
+
+apearance>menus
+remove - >Shipping-Order-Tracking-Delivery
+remove - >Returns-Exchange
+remove - >Payments
+
+save menus
+

@@ -1,0 +1,79 @@
+search on google
+download xampp
+https://www.apachefriends.org/download.html
+download and install
+
+
+search on google
+download worpress
+https://wordpress.org/download/
+paste in c:xampp/htdocs
+
+extract wordpress zip file
+rename folder  name
+
+create a database
+search xampp control panel
+apache start
+mysql start
+click on mysql admin
+enter a database name
+
+
+localhost/kbjewellery 
+select a language
+database name
+username root
+click on submit
+
+site title anything
+username anything
+password anything
+business email
+install wordpress	
+
+how to open website
+localhost/kbjewellery 
+
+how to open dashboard
+localhost/kbjewellery/wp-admin
+
+how to choose theme
+>>appearance>>theme>>add new theme>>search woostify
+install then active
+
+
+>>plugin>>add new plugin>>search woocommerce
+install>>activate
+
+
+how to remove post
+>>post >>select >>trash
+
+create pages>>
+
+how to create menu
+appearance >>menu
+menu name>>select automatic>>primary key check the checkbox
+>>create menu
+
+select a page >>add to menu
+
+
+how to create category
+>>product>>categories>>category name>>create category
+
+
+how to show category inside shop page?
+appearance>>menu>>goto screen options>>check product categories
+arrange categories
+
+how to remove sidebar
+appearance>>customize>>layout>>sidebar>>no sidebar>>publish
+
+how to add product
+product>>addd new
+
+
+how to change currency??
+woocommerce>>settting >>general

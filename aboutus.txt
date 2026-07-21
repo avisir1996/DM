@@ -1,0 +1,21 @@
+STEP 1: Create a New Page
+Pages > Add page > ABOUTUS > Publish
+--------------------------------
+
+STEP 2: Install Elementor Plugin
+Go to Dashboard
+Plugins > Add Theme
+Search for "Elementor" > Install > Activate
+--------------------------------
+
+STEP 3: Design Layout
+--------------------------------
+pages > aboutus > edit > edit with elementor
+
+1. Add a 3 Column > Images
+
+2. Add a 1 Column > paragraph
+
+3. Add a 1 Column > Heading
+
+4. Add a 1 Column > Image Carousel

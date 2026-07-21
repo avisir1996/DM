@@ -1,0 +1,86 @@
+STEP 1: DOWNLOAD & INSTALL XAMPP
+
+* Open Google
+* Search: XAMPP download
+* Open official website: https://www.apachefriends.org/download.html
+* Download and install XAMPP
+
+STEP 2: DOWNLOAD WORDPRESS
+
+* Open Google
+* Search: WordPress download
+* Open: https://wordpress.org/download/
+* Download ZIP file
+
+STEP 3: SETUP PROJECT FOLDER
+
+* Go to: C:\xampp\htdocs
+* Paste the downloaded WordPress ZIP file
+* Extract the ZIP file
+* Rename the folder (example: mansi)
+
+STEP 4: START SERVER
+* Open XAMPP Control Panel
+* Start:
+  Apache
+  MySQL
+* Click on MySQL → Admin
+* Click on “New”
+* Create database (example: mansi)
+
+STEP 5: INSTALL WORDPRESS
+* Open Google
+* Go to: localhost/mansi
+* Select Language
+  Database Name: mansi
+  Username: root
+  Password: (leave blank)
+* Click Submit
+
+STEP 6: WEBSITE SETUP
+* Site Title: your choice
+* Username: admin
+* Password: admin
+* Email: your email
+* “Install WordPress”
+
+STEP 7: ACCESS WEBSITE
+* Website:
+  localhost/mansi
+
+* WordPress Dashboard:
+  localhost/mansi/wp-admin
+
+------------------------------------------------------------
+WORDPRESS CUSTOMIZATION
+
+CHANGE THEME
+* Appearance → Themes → Add Theme
+* Search: Astra → Install → Activate
+
+REMOVE POSTS
+* Posts → All Posts → Trash
+
+CHANGE COPYRIGHT
+* Appearance → Customize → Footer → Edit Copyright → Publish
+
+REMOVE PAGES
+* Pages → All Pages → Trash
+
+REMOVE MENUS
+* Appearance → Menus → Delete Menu
+
+CREATE NEW PAGE
+* Pages → Add Page → Create
+
+CHANGE LOGO
+* Appearance → Customize → Site Identity → Logo → Publish
+
+CHANGE SITE ICON
+* Appearance → Customize → Site Identity → Site Icon → Publish
+
+CHANGE HEADER COLOR
+* Appearance → Customize → Header → Edit Header → Design → Publish
+
+CHANGE FOOTER COLOR
+* Appearance → Customize → Footer → Edit Footer → Design → Publish

@@ -1,0 +1,18 @@
+pages>add page>blog>publish
+
+post> add post
+post name___________
+upload image
+content 
+
+post>setting>post>set featured image>upload>publish
+
+wordpress>setting>reading> post page>blog>save
+
+logout 
+
+give 2-3 comments
+
+login to worpress dashboard
+comment>approve/trash
+
