@@ -1,0 +1,49 @@
+Google keyword planner &
+Search ad
+
+tools>planning>keyword planner
+discover new keywords>
+_____
+download keyword ideas >in csv
+
+open csv file in excel>
+Avg. monthly searches
+descending <=> ascending
+copy top 5 / 10 keywords
+
+campaign>campiagn>+
+new campaign>
+create a campaign without a guidence
+search>
+continue
+website visit___________
+continue
+
+
+bidding>
+clicks>
+Set a maximum cost per click bid limit>
+Maximum CPC bid limit 5
+next
+
+Locations__________
+Start and end dates_____________
+Ad schedule ___________
+next
+
+paste keyword
+next
+
+final url _________
+Display path digital marketing
+
+headline atleast 3
+description atleast 2
+
+sitelink
+sitelink text__________
+final url_________
+next
+
+budget
+next

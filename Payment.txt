@@ -1,0 +1,67 @@
+============================================================
+ADDING CASH ON DELIVERY 
+============================================================
+
+WOOCOMMERCE > SETTINGS > Payments > ENABLE COD > SAVE CHANGES
+
+============================================================
+ADVANCED COD CONFIGURATION 
+============================================================
+
+Plugins > Add New > Smart COD for WooCommerce Developer: FullStack-ing > Install > Activate.
+
+
+
+============================================================
+INSTALLING THE RAZORPAY PLUGIN 
+============================================================
+
+PLUGINS > Add New > RAZORPAY FOR WOOCOMMERCE  > INSTALL > ACTIVATE
+
+============================================================
+CREATING A RAZORPAY ACCOUNT 
+============================================================
+
+https://razorpay.com/
+
+Sign up or log in to your Razorpay account.
+
+Complete the required merchant registration information.
+
+Complete identity, business, and verification requirements as requested.
+
+Razorpay Dashboard.
+
+============================================================
+UNDERSTANDING RAZORPAY API KEYS 
+============================================================
+
+API stands for Application Programming Interface.
+
+API keys allow the WooCommerce plugin to communicate with the Razorpay payment service.
+
+Two important credentials are:
+
+Key ID
+Key Secret
+
+============================================================
+GENERATING TEST API KEYS 
+============================================================
+
+API KeysTest Mode > Generate Test Keys
+
+Key ID
+Key Secret
+
+============================================================
+CONNECTING RAZORPAY TO WOOCOMMERCE 
+============================================================
+
+WooCommerce > Settings > Payments > Razorpay > Manage
+
+Paste the Razorpay Test Key ID
+
+Paste the corresponding Test Key Secret.
+
+Save Changes.

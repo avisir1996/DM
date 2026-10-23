@@ -1,0 +1,90 @@
+SKU (STOCK KEEPING UNIT):
+An SKU is a unique code used by a business to identify and track a specific product or product variation in its inventory.
+
+Examples:
+TSH-BLK-M-001
+MUG-WHT-002
+LAP-DELL-16-001
+
+An SKU can contain letters, numbers and separators such as hyphens. The business decides its own SKU format.
+
+==================================================================
+
+WHY SKU IS IMPORTANT
+- Identifies products quickly.
+- Helps track stock quantity.
+- Reduces confusion between similar products.
+- Supports order picking, packing and dispatch.
+- Helps with sales and inventory reports.
+- Makes product searching easier.
+- Helps distinguish size, colour, model or other variations.
+
+==================================================================
+
+SKU EXAMPLE
+A store sells the same T-shirt in three colours and three sizes.
+
+Product: Classic T-shirt
+
+Black, Small  -> TSH-BLK-S
+Black, Medium -> TSH-BLK-M
+Black, Large  -> TSH-BLK-L
+White, Small  -> TSH-WHT-S
+White, Medium -> TSH-WHT-M
+White, Large  -> TSH-WHT-L
+Blue, Small   -> TSH-BLU-S
+Blue, Medium  -> TSH-BLU-M
+Blue, Large   -> TSH-BLU-L
+
+Each distinct variation should have its own SKU when inventory is tracked separately.
+
+Suggested format:
+CATEGORY-ATTRIBUTE-MODEL-NUMBER
+
+Examples:
+SHIRT-BLK-M-001
+SHIRT-WHT-L-002
+MUG-RED-350ML-001
+PHONE-SAM-A55-128
+BOOK-PYTHON-001
+
+==================================================================
+
+SKU IN WOOCOMMERCE — ADD TO A SIMPLE PRODUCT
+Products >Add New Product
+Enter the product name, description, price and other required details
+In the Product data > Inventory tab > SKU
+Enter a unique SKU, for example: MUG-WHT-001
+If needed, enable Manage stock and enter the stock quantity
+Publish
+
+==================================================================
+
+SKU FOR VARIABLE PRODUCTS
+Example: T-shirt with size and colour options.
+
+Products > Add New
+Product data : Variable product
+Attributes and add attributes such as Colour and Size.
+Select Used for variations and save the attributes.
+Open Variations and create the required combinations.
+Expand each variation.
+Enter a distinct SKU for each variation, if each one is tracked separately.
+Enter each variation's price and stock settings.
+Save changes
+Test the product page by selecting different variations.
+
+Example:
+Black / Small  -> TSH-BLK-S
+Black / Medium -> TSH-BLK-M
+White / Small  -> TSH-WHT-S
+
+==================================================================
+
+SKU AND STOCK MANAGEMENT
+An SKU identifies an item; it does not itself control stock.
+==================================================================
+
+To track stock in WooCommerce:
+product > Product data > Inventory.
+stock Management > Quantity > Save

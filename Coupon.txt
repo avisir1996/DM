@@ -1,0 +1,148 @@
+
+COUPONS
+A coupon is a promotional code that allows customers to receive a discount or special offer when purchasing products from an online store.
+
+PURPOSE OF COUPONS
+ → Attract new customers.
+ → Increase sales.
+ → Encourage repeat purchases.
+ → Promote seasonal offers.
+ → Clear old inventory.
+ → Promote specific products or categories.
+
+
+TYPES OF WOOCOMMERCE COUPONS
+
+1. Percentage Discount Provides a percentage discount on eligible products or orders.
+
+Example: Coupon Code: SAVE10 Discount: 10%
+
+If the eligible amount is ₹2,000: Discount = ₹200 Amount after discount = ₹1,800.
+
+==================================================================================
+
+2. Fixed Cart Discount Deducts a fixed amount from the eligible cart total.
+
+Example: Coupon Code: SAVE200 Discount: ₹200
+
+If the cart total is ₹1,500: Amount after discount = ₹1,300.
+
+==================================================================================
+
+3. Fixed Product Discount Deducts a fixed amount from each eligible product unit.
+
+Example: Product price: ₹500 Coupon discount: ₹50 per eligible unit Discounted price per unit: ₹450.
+
+==================================================================================
+
+4. Buy One Get One Free (BOGO) The customer purchases one qualifying product and receives another eligible product free.
+
+Example: Buy one T-shirt for ₹500 and get another eligible T-shirt free.
+
+Note: BOGO offers may require an additional plugin feature.
+
+==================================================================================
+
+5. Automatic Coupon A qualifying coupon is applied automatically when the customer meets the configured conditions.
+
+Example: A customer adds eligible products to the cart and receives a 10% discount without entering a code.
+
+Note: Automatic application may require a compatible coupon plugin.
+
+==================================================================================
+
+HOW TO CREATE A COUPON IN WOOCOMMERCE
+
+Marketing → Coupons.
+
+Add New Coupon.
+
+Enter the Coupon Code Example: WELCOME10
+
+Enter the Coupon Description, if needed: Example: 10% discount for new customers.
+
+Open the General section.
+
+Select the Discount Type:
+
+Percentage discount
+Fixed cart discount
+Fixed product discount
+
+Enter the Coupon Amount.
+
+10 for a 10% discount.
+
+Coupon Expiry Date Example: 31 December 2026.
+
+Configure Usage Restrictions if required.
+
+Configure Usage Limits if required.
+
+Publish.
+
+Test the coupon on the store's Cart or Checkout page.
+
+==================================================================================
+
+PRACTICAL 2: HOW TO INSTALL THE SMART COUPONS PLUGIN
+
+OBJECTIVE: To install and activate Smart Coupons for WooCommerce in WordPress.
+
+STEPS:
+
+Plugins → Add New Plugin.
+
+Smart Coupons for WooCommerce by WebToffee → Install → Activate.
+
+OFFICIAL PLUGIN PAGE: https://wordpress.org/plugins/wt-smart-coupons-for-woocommerce/
+
+==================================================================================
+
+PRACTICAL 3: BUY ONE GET ONE FREE (BOGO)
+
+EXAMPLE: Buy one T-shirt for ₹500 and get another eligible T-shirt free.
+
+STEPS:
+
+Smart Coupons  → BOGO → Add New
+
+Enter the offer name. Example: Buy 1 T-shirt, Get 1 Free.
+
+Select the Specific product. Example: T-shirt.
+
+Set the purchase quantity to 1.
+
+Set the discount type to Free or 100%.
+
+Save or activate.
+
+EXPECTED RESULT: The customer receives two eligible T-shirts but pays for only one.
+
+==================================================================================
+
+PRACTICAL 4: AUTOMATIC COUPON APPLICATION
+
+An automatic coupon is a discount applied to an eligible cart without the customer manually entering the coupon code.
+
+EXAMPLE: A customer purchases eligible products worth ₹1,000 and receives a 10% discount automatically.
+
+STEPS:
+
+Marketing → Coupons → Add Coupon → 
+
+Enter the coupon code. Example: AUTO10
+
+Discount Type → Percentage discount.
+
+coupon amount → 10.
+
+Enable Apply Coupon Automatically.
+
+Configure any required product, cart, or usage restrictions.
+
+Set the expiry date if required.
+
+Publish
+
+EXPECTED RESULT: Cart subtotal = ₹1,000 Discount = ₹100 Amount after discount = ₹900 before applicable taxes, shipping, and other adjustments.

@@ -1,0 +1,28 @@
+----------------------------------------------------------
+How to Design Home Page in WordPress? 
+
+----------------------------------------------------------
+Pages > Add Page > Home > Click Publish
+
+----------------------------------------------------------
+Plugins > Add New > Smart Slider 3 > Install > Activate
+
+----------------------------------------------------------
+Smart Slider > Dashboard > New Project > Create
+
+Add Slide > Upload images > Save
+
+----------------------------------------------------------
+How to Add Slider in Home Page?
+
+Smart Slider > General Tab > Copy Shortcode
+
+Pages> Home > Paste shortcode > Publish
+
+----------------------------------------------------------
+How to Set Home Page as Default(Homepage)?
+
+Settings > Reading
+Select > A static page
+Homepage > Home > 
+Save Changes
