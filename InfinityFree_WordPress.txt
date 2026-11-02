@@ -1,0 +1,66 @@
+HOW TO CREATE A WORDPRESS WEBSITE USING INFINITYFREE
+
+=============================================================
+
+STEP 1: CREATE AN INFINITYFREE ACCOUNT
+
+https://www.infinityfree.com/
+Log in to your InfinityFree account.
+
+=============================================================
+
+STEP 2: CREATE A FREE HOSTING ACCOUNT
+
+Create Account.
+Example: myfashionstore.infinityfreeapp.com
+Select an available free domain extension.
+Complete the account creation process.
+Wait until your hosting account is ready.
+
+=============================================================
+
+STEP 3: OPEN THE CONTROL PANEL
+
+Script Installer, find and select WordPress > Install Now.
+Choose your domain.
+Leave the In Directory field blank to install WordPress on the main website address.
+Enter your website name. Example: My Fashion Store
+Enter a short website description. Example: Fashion and Lifestyle
+username : admin
+password : admin
+email address
+Install Wordpress
+
+------------------------------------------------------------
+WORDPRESS CUSTOMIZATION
+
+CHANGE THEME
+* Appearance → Themes → Add Theme
+* Search: Astra → Install → Activate
+
+REMOVE POSTS
+* Posts → All Posts → Trash
+
+CHANGE COPYRIGHT
+* Appearance → Customize → Footer → Edit Copyright → Publish
+
+REMOVE PAGES
+* Pages → All Pages → Trash
+
+REMOVE MENUS
+* Appearance → Menus → Delete Menu
+
+CREATE NEW PAGE
+* Pages → Add Page → Create
+
+CHANGE LOGO
+* Appearance → Customize → Site Identity → Site Title & Logo Settings → Change Logo → Publish
+
+CHANGE SITE ICON
+* Appearance → Customize → Site Identity → Site Icon → Change Site Icon →Publish
+
+CHANGE HEADER COLOR
+* Appearance → Customize → Header → Edit Header → Design → Publish
+
+CHANGE FOOTER COLOR
+* Appearance → Customize → Footer → Edit Footer → Design → Publish

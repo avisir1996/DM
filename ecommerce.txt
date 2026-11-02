@@ -1,0 +1,89 @@
+STEP 1: DOWNLOAD & INSTALL XAMPP
+
+* Open Google
+* Search: XAMPP download
+* Open official website: https://www.apachefriends.org/download.html
+* Download and install XAMPP
+
+STEP 2: DOWNLOAD WORDPRESS
+
+* Open Google
+* Search: WordPress download
+* Open: https://wordpress.org/download/
+* Download ZIP file
+* Go to: C:\xampp\htdocs
+* Paste the downloaded WordPress ZIP file
+
+STEP 3: SETUP PROJECT FOLDER
+
+* Go to: C:\xampp\htdocs
+* Extract the WordPress ZIP file
+* Rename the folder (example: mansi)
+
+STEP 4: START SERVER
+* Open XAMPP Control Panel
+* Start:
+  	Apache
+  	MySQL
+* Click on MySQL → Admin
+* Click on “New”
+* Create database (example: mansi)
+
+STEP 5: INSTALL WORDPRESS
+* Open Google
+* Go to: localhost/mansi
+* Select Language
+  Database Name: mansi
+  Username: root
+  Password: (leave blank)
+* Click Submit
+
+STEP 6: WEBSITE SETUP
+* Site Title: your choice
+* Username: admin
+* Password: admin
+* Email: your email
+* “Install WordPress”
+
+STEP 7: ACCESS WEBSITE
+* Website:
+  localhost/mansi
+
+* WordPress Dashboard:
+  localhost/mansi/wp-admin
+
+------------------------------------------------------------
+WORDPRESS CUSTOMIZATION
+
+CHANGE THEME
+* Appearance → Themes → Add Theme
+* Search: Blocksy → Install → Activate
+
+plugin → add new → search woocommerce → install → activate
+
+how to remove post?
+post → select post → trash
+
+create pages → Home/aboutus/contactus → publish 
+
+how to create menu?
+appearance → menu
+menu name __________
+select 
+Automatically add new top-level pages to this menu
+Header Menu 1
+create menu
+select all pages >>add to menu
+
+how to create category
+product → categories → category name → create category
+
+how to show category inside shop page?
+appearance → menu → product categories
+select Category → add to menu
+
+how to add product?
+product → add new
+
+how to change currency?
+woocommerce → settting  → general → Currency

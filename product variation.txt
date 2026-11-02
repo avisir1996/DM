@@ -1,0 +1,16 @@
+product>add new
+product data> variable product>
+attribute> 
+	add new>
+		Size => x | xl
+		color => black | white
+save changes
+
+variation>generate variation>
+save changes>update
+
+============================================================
+INSTALLING VARIATION SWATCHES FOR WOOCOMMERCE PLUGIN
+============================================================
+
+Plugins > Add New > Variation Swatches for WooCommerce > Install > Activate.

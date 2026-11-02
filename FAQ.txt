@@ -1,0 +1,48 @@
+
+=======================================
+
+how to design faq page?
+
+=======================================
+
+same as <=> https://www.myntra.com/faqs
+		https://www.myntra.com/faqs#shipping
+		https://www.myntra.com/faqs#cancel
+		https://www.myntra.com/faqs#returns
+		https://www.myntra.com/faqs#signuplogin
+		https://www.myntra.com/faqs#paymentQueries
+
+=======================================
+
+plugin>add plugin>Accordion FAQ – Compatible With All Page Builder> install > activate
+
+Accrodian faq> add new> add title> Shipping-Order-Tracking-Delivery
+
+Accordian title __________
+Accordian description __________
+
+atleast 2-3 questions
+
+publish
+
+copy shortcode
+
+=======================================
+
+pages>ad page>faq>publish
+edit> edit with elementor> Flexbox> 
+1 column > tab
+content> direction> before
+
+1st Tab Title > Shipping, Order Tracking & Delivery > Icon> Icon Library> Star > Insert 
+2nd Tab Title > Cancellations and Modifications > Icon> Icon Library> Star > Insert
+3rd Tab Title  >Returns and Exchange > Icon> Icon Library> Star > Insert
+4th Tab Title  > Sign Up and Login > Icon> Icon Library> Star > Insert
+5th Tab Title  > Payments > Icon> Icon Library> Star > Insert
+
+=======================================
+
+Accrodian faq> Shipping-Order-Tracking-Delivery> copy shortcode
+
+page> faq> tab> Shipping, Order Tracking & Delivery > 
+Add Element> shortcode > paste shortcode in drag widget here 
