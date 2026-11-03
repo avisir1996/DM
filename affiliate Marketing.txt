@@ -1,0 +1,53 @@
+HOW TO CREATE AN AMAZON AFFILIATE ACCOUNT
+
+STEP 1: OPEN AMAZON 
+1. Open https://www.amazon.in/ 
+2. Scroll to the bottom of the homepage. 
+3. Find “Become an Affiliate” under the footer section. 
+4. Click the link.
+
+STEP 2: SIGN UP 
+1. Click Sign Up or log in using your Amazon account. 
+2. Enter your account details.
+
+STEP 3: ENTER ACCOUNT INFORMATION 
+1. Enter Payee Name. 
+2. Enter Address.
+3. Enter Phone Number. 
+4. Select Country.
+
+STEP 4: ADD WEBSITE DETAILS 
+1. Enter your WordPress Website URL. 
+2. Next.
+
+STEP 5: CREATE AFFILIATE PROFILE 
+1. Enter your preferred Store ID. 
+2. Describe your website. 
+3. Select your website category. 
+4. Select how you generate traffic. 
+5. Complete the CAPTCHA. 
+6. Submit.
+
+STEP 6: OPEN SITESTRIPE SETTINGS 
+1. Amazon Associates Dashboard. 
+2. Click Tools. 
+3. Go to Options and Settings. 
+4. Options. 
+5. SiteStripe option. 
+6. Enable SiteStripe
+
+STEP 7: CREATE AFFILIATE LINKS 
+1. Open https://www.amazon.in/ 
+2. Search for and open a product. 
+3. Use SiteStripe and click Get Link. 
+4. Copy the affiliate link.
+
+STEP 8: ADD PRODUCT TO WORDPRESS USING ELEMENTOR 
+1. Open WordPress Dashboard. 
+2. Go to Pages and select your page. 
+3. Click Edit with Elementor. 
+4. Add a 2-column Flexbox Container. 
+5. Add an Image Widget.
+6. Upload  product image. 
+7. Link > Paste the Amazon Affiliate Link . 
+8. Publish.
