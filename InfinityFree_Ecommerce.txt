@@ -1,0 +1,68 @@
+HOW TO CREATE A ECOMMERCE WEBSITE USING INFINITYFREE
+
+=============================================================
+
+STEP 1: CREATE AN INFINITYFREE ACCOUNT
+
+https://www.infinityfree.com/
+Log in to your InfinityFree account.
+
+=============================================================
+
+STEP 2: CREATE A FREE HOSTING ACCOUNT
+
+Create Account.
+Example: myfashionstore.infinityfreeapp.com
+Select an available free domain extension.
+Complete the account creation process.
+Wait until your hosting account is ready.
+
+=============================================================
+
+STEP 3: OPEN THE CONTROL PANEL
+
+Script Installer, find and select WordPress > Install Now.
+Choose your domain.
+Leave the In Directory field blank to install WordPress on the main website address.
+Enter your website name. Example: My Fashion Store
+Enter a short website description. Example: Fashion and Lifestyle
+username : admin
+password : admin
+email address
+Install Wordpress
+
+------------------------------------------------------------
+WORDPRESS CUSTOMIZATION
+
+CHANGE THEME
+* Appearance → Themes → Add Theme
+* Search: Blocksy → Install → Activate
+
+plugin → add new → search woocommerce → install → activate
+
+how to remove post?
+post → select post → trash
+
+create pages → Home/aboutus/contactus → publish 
+
+how to create menu?
+appearance → menu
+menu name __________
+select 
+Automatically add new top-level pages to this menu
+Header Menu 1
+create menu
+select all pages >>add to menu
+
+how to create category
+product → categories → category name → create category
+
+how to show category inside shop page?
+appearance → menu → product categories
+select Category → add to menu
+
+how to add product?
+product → add new
+
+how to change currency?
+woocommerce → settting  → general → Currency
